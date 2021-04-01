@@ -1,0 +1,12 @@
+body{
+	background: orange;
+	font: 16px Arial, Helvetica, sans-serif ;
+}
+#principal{
+	width: 900px;
+}
+#menu{
+	background: #778899;
+	border: 1 px solid red;
+	padding: 15px;
+}
